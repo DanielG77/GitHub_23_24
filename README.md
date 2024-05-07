@@ -1,1 +1,3 @@
-# GitHub_23_24
+# EXAMEN GitHub
+# Daniel Girones Garcia
+# Curso 2023-2024
